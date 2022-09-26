@@ -1,4 +1,4 @@
-#: locale=pt
+#: locale=es
 
 ## Action
 
