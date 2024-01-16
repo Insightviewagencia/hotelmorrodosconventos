@@ -3,16 +3,16 @@
 ## Action
 
 ### URL
+LinkBehaviour_0B549DB9_1410_76D4_41B2_5F7DEA648747.source = https://api.whatsapp.com/send?phone=5548998650322&text=Ol%C3%A1!!!%20Estava%20navegando%20pelo%20tour%20virtual%2C%20gostaria%20de%20algumas%20informa%C3%A7%C3%B5es!
 LinkBehaviour_248159C3_3DEC_4EFC_41C1_5EB5BEBAB079.source = https://api.whatsapp.com/send?phone=5548998650322&text=Ol%C3%A1!!!%20Estava%20navegando%20pelo%20tour%20virtual%2C%20gostaria%20de%20algumas%20informa%C3%A7%C3%B5es!
-LinkBehaviour_64DE0C67_7BD8_860A_41C7_73444ADF495B.source = https://api.whatsapp.com/send?phone=5548998650322&text=Ol%C3%A1!!!%20Estava%20navegando%20pelo%20tour%20virtual%2C%20gostaria%20de%20algumas%20informa%C3%A7%C3%B5es!
-LinkBehaviour_64D0BC46_7BD8_860B_41D5_02C3E8C06988.source = https://book.omnibees.com/chain/6238
 LinkBehaviour_24C5AAC2_3DF7_C2FC_41B7_39A5F526059C.source = https://book.omnibees.com/chain/6238
-LinkBehaviour_64DEEC57_7BD8_860A_41A2_68EAF9CC04DE.source = https://goo.gl/maps/9isQZ1mx46Zrj13F6
+LinkBehaviour_0B511DA7_1410_76FC_419F_19168F8A1ADC.source = https://book.omnibees.com/chain/6238
 LinkBehaviour_2A54137A_3D3C_438F_41CE_135374C85945.source = https://goo.gl/maps/9isQZ1mx46Zrj13F6
-LinkBehaviour_64DC7C57_7BD8_860A_41CF_DC9592EC7500.source = https://instagram.com/hotel.morrodosconventosoficial?igshid=YmMyMTA2M2Y=
+LinkBehaviour_0B528DAE_1410_76CC_41AC_A2896C9F982D.source = https://goo.gl/maps/9isQZ1mx46Zrj13F6
 LinkBehaviour_24A06C2C_3DEC_4584_41A0_167A800A4D6C.source = https://instagram.com/hotel.morrodosconventosoficial?igshid=YmMyMTA2M2Y=
-LinkBehaviour_64DECC67_7BD8_860A_41DA_770051DFB8B9.source = https://www.hotelmorrodosconventos.com.br/
+LinkBehaviour_0B511DAF_1410_76CC_41B1_6019AC985BBD.source = https://instagram.com/hotel.morrodosconventosoficial?igshid=YmMyMTA2M2Y=
 LinkBehaviour_251A29AD_3DEC_4E84_41CC_1B5645DB4D25.source = https://www.hotelmorrodosconventos.com.br/
+LinkBehaviour_0B54EDB9_1410_76D4_41AE_FC2808FB08E1.source = https://www.hotelmorrodosconventos.com.br/
 
 ## Media
 
@@ -24,32 +24,59 @@ audiores_44ECAD60_5D98_1DAB_41D5_3D82219862ED.mp3Url = media/audio_452355C9_5D98
 photo_418D3822_559C_C673_41D2_3F4EC9E23750.label = 151262346_450038436433456_7869363081495016761_n
 photo_6FD0BC25_42A2_38FE_41C5_DA4227B97718.label = 2994741_resize_1500_1500
 photo_4607D668_55BB_CAFF_41AD_4B027CC880FE.label = A10-Morro-dos-Conventos-Araranguá-Foto-Silvio-Cesar-Paladini
-panorama_76995931_79D8_8E09_41DD_4E71E1E08527.label = Academia
+panorama_1D214A37_13FF_BDDB_4198_EDAB81B3CD5B.label = Academia
+panorama_1D2011D3_13FF_8E54_4198_599CA77DD6E8.label = Balcão Café
 panorama_100B8500_38D2_A60C_4191_5E1BE1721520.label = Barra Rio Araranguá
+panorama_1D21EAE5_13F0_F27C_41B2_53E81D0C04B9.label = Bistro 1
 panorama_76B72CE9_79A9_8619_41A3_F03FC5DEADB6.label = Bistro 1
 panorama_77144E96_79A9_820A_41DC_D3967E08795E.label = Bistro 2
+panorama_1D21FC61_13F0_9674_4180_24D8F8E33988.label = Bistro 2
+panorama_1D20FC86_13FF_F6BD_41B1_E0F4F12082D2.label = Café
+panorama_1D20661D_13FF_95CC_4193_2FE7A62E542F.label = Café
+panorama_0C7EA13C_1410_8FCD_41A7_B88FC005BD46.label = Deck Café
+panorama_1D21AD9A_13F0_B6D4_41B2_34034A776784.label = Deck Noturna
 panorama_77C9708E_79A8_9E1A_41D1_8F87FEDDC03E.label = Deck Noturna
+panorama_1D21DE2B_13F0_95CB_4192_9091E6AE3EE1.label = Deck Piscina
 panorama_774F76D1_79A8_8209_41C0_FB9CC89BF3B9.label = Deck Piscina
+panorama_1D200A12_13F0_9DD4_41B2_0A1ACBE4C920.label = Elevador
+panorama_1D202079_13F0_8E57_41B3_133A861DD9D0.label = Elevador 02
+panorama_1D206FD2_13FF_9254_41B2_A97779A2268A.label = Entrada Café
 panorama_77217EAB_79AB_821A_41DD_B5EF42426B9C.label = Entrada Hotel
+panorama_1D211F77_13F0_725C_41B0_49A5A2BD2396.label = Entrada Hotel
 panorama_1F291C14_38D2_A634_41C5_327D3BEC9C6F.label = Farol
-panorama_1F29CCFF_38D2_A7F4_41A2_561A799398EE.label = Fenda
 panorama_1F2876B7_38D2_A274_41BA_2F618A831483.label = Fenda
+panorama_1F29CCFF_38D2_A7F4_41A2_561A799398EE.label = Fenda
 panorama_1F283EE2_38D2_A20C_41C5_C0A3B1C858FA.label = Hotel
+panorama_1D21D2AA_13F1_92F5_416B_0477BF3B88E8.label = Lateral
 panorama_7635F98A_79A8_8E1A_41A3_503E999193B3.label = Lateral
 panorama_771359F6_79A8_8E0A_41D8_6755AE437EAB.label = Lateral Familiar
+panorama_1D204287_13F1_B2BB_4194_E4EF3B0964C5.label = Lateral Familiar
 panorama_76472252_79A8_820A_41D3_168BB9B3018C.label = Mirante Deck
+panorama_1D2062BB_13F1_F2CB_41B3_31A0DC32C360.label = Mirante Deck
 panorama_1F2823FB_38D2_A1FC_41C4_23ECFAA1A3E7.label = Parapente
+panorama_1D215E07_13FF_B5BB_41B2_B4003B2BD6A8.label = Parquinho
+panorama_038D42C5_13FF_B2BF_41B1_DA9F069DABF7.label = Parquinho
+panorama_1D2363E8_13F1_9275_41AF_1B28D78C7B3D.label = Piscina Externa
 panorama_771CB59F_79A8_863A_41B0_0DC9C1390F97.label = Piscina Externa
 panorama_76D3E3CA_79D9_821A_41D6_EE14835E1FF0.label = Piscina Noturna
+panorama_1D20B602_13F1_B5B5_41B3_EE52E9A51B6D.label = Piscina Noturna
 panorama_7770CA0B_79D8_821A_41C9_35A43F624805.label = Piscina Térmica
+panorama_1D20F691_13F1_92D4_41AD_8CAF41A0E9F9.label = Piscina Térmica
 panorama_771339F5_79A8_8E0E_41B9_1E9A30DD6998.label = Quarto Frente
+panorama_1D259A8C_13F0_72CC_4191_37A976A8D26E.label = Quarto Frente
 panorama_772F0C02_79D8_860A_41DA_99CD137C02D3.label = Recepção
-panorama_69909997_79AB_8E0A_41C6_FFEC439D0E4D.label = Refeitorio Externo
+panorama_69909997_79AB_8E0A_41C6_FFEC439D0E4D.label = Refeitorio (Externo)
+panorama_776ABE09_79D8_8206_41D7_D5C066C83C9A.label = Refeitório
+panorama_1D20EE1D_13F0_B5CC_41A9_54B5B03A8C15.label = Sala de TV
+panorama_1D2023CA_13F0_B2B5_4192_C42FD6225233.label = Sala de TV
 panorama_77697E0B_79D8_821A_41C1_9534EBD7B952.label = Sala de jogos
 panorama_776906AE_79D8_821B_41DD_F0869367DC17.label = Sala de jogos 2
-panorama_776ABE09_79D8_8206_41D7_D5C066C83C9A.label = Salão lateral
+panorama_1D24DC6D_13F0_964C_41A5_4A3C4DAD432B.label = Salão 01
 panorama_F25F5A6C_FFED_3124_41EB_F91F7A9FB969.label = Salão principal 01
 panorama_F2AB6F6F_FFED_4F24_41CE_0D146434137E.label = Salão principal 02
+panorama_1D217D87_13FF_96BC_417C_CB73B1E19D5A.label = Suite Master
+panorama_1D2026F4_13F0_725C_41A9_CDAF3CEA1F30.label = Suite Master
+panorama_1D22F112_13F0_8FD4_415B_459A847CC6F1.label = salão 02
 
 ## Popup
 
@@ -63,10 +90,12 @@ htmlText_415269FB_559C_39D2_41C0_932D416CB51A.html = <div style="text-align:left
 ### Dropdown
 DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = BISTRÔ
 DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7_mobile.label = BISTRÔ
+DropDown_0042D18F_13F0_8ECB_4187_17A1ACD874D9_mobile.label = CAFÉ DO MORRO
+DropDown_0042D18F_13F0_8ECB_4187_17A1ACD874D9.label = CAFÉ DO MORRO
 DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29_mobile.label = COMODIDADES
 DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = COMODIDADES
-DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09_mobile.label = ESPAÇO PARA EVENTOS
 DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = ESPAÇO PARA EVENTOS
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09_mobile.label = ESPAÇO PARA EVENTOS
 DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B_mobile.label = NOTURNAS
 DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = NOTURNAS
 DropDown_1A7DFE64_3957_A214_41BF_EC2D9E17830C_mobile.label = QUARTOS
@@ -79,8 +108,8 @@ Image_2038FB71_3952_E20C_41C1_4FABC7B694A0_mobile.url = skin/Image_2038FB71_3952
 Image_2038FB71_3952_E20C_41C1_4FABC7B694A0.url = skin/Image_2038FB71_3952_E20C_41C1_4FABC7B694A0_pt.png
 
 ### Multiline Text
-HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8612303290414887vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.86vh;font-family:'Montserrat';"><B>HOTEL MORRO DOS CONVENTOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.716738197424892vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.72vh;font-family:'Montserrat';"><B>SINTA A EXPERIÊNCIA DE SE HOSPEDAR EM UM LUGAR PARADISÍACO.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.859799713876965vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Do alto de um verdejante morro, com vista paradisíaca para o mar, permeado por dunas, falésias e trilhas, o Hotel Morro dos Conventos proporciona aos seus hóspedes uma deslumbrante interação com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.859799713876965vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No extenso deck da piscina é possível vislumbrar toda a extensão da praia, que se encontra a 400 metros do empreendimento. Além disso, você encontra um vasto conjunto de serviços e comodidades, ideal para turistas e viagens de negócio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.859799713876965vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No hotel Morro dos Conventos sua estada será repleta de sossego e tranquilidade. Nossa infraestrutura é baseada no conforto e na simplicidade, proporcionando a você um contato direto com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_67623E20_7BB8_8206_41C5_769E2413316D_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8612303290414887vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.86vh;font-family:'Montserrat';"><B>HOTEL MORRO DOS CONVENTOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.716738197424892vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.72vh;font-family:'Montserrat';"><B>SINTA A EXPERIÊNCIA DE SE HOSPEDAR EM UM LUGAR PARADISÍACO.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.859799713876965vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Do alto de um verdejante morro, com vista paradisíaca para o mar, permeado por dunas, falésias e trilhas, o Hotel Morro dos Conventos proporciona aos seus hóspedes uma deslumbrante interação com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.859799713876965vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No extenso deck da piscina é possível vislumbrar toda a extensão da praia, que se encontra a 400 metros do empreendimento. Além disso, você encontra um vasto conjunto de serviços e comodidades, ideal para turistas e viagens de negócio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.859799713876965vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No hotel Morro dos Conventos sua estada será repleta de sossego e tranquilidade. Nossa infraestrutura é baseada no conforto e na simplicidade, proporcionando a você um contato direto com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.861230329041489vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.86vh;font-family:'Montserrat';"><B>HOTEL MORRO DOS CONVENTOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7167381974248923vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.72vh;font-family:'Montserrat';"><B>SINTA A EXPERIÊNCIA DE SE HOSPEDAR EM UM LUGAR PARADISÍACO.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Do alto de um verdejante morro, com vista paradisíaca para o mar, permeado por dunas, falésias e trilhas, o Hotel Morro dos Conventos proporciona aos seus hóspedes uma deslumbrante interação com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No extenso deck da piscina é possível vislumbrar toda a extensão da praia, que se encontra a 400 metros do empreendimento. Além disso, você encontra um vasto conjunto de serviços e comodidades, ideal para turistas e viagens de negócio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No hotel Morro dos Conventos sua estada será repleta de sossego e tranquilidade. Nossa infraestrutura é baseada no conforto e na simplicidade, proporcionando a você um contato direto com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.861230329041489vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.86vh;font-family:'Montserrat';"><B>HOTEL MORRO DOS CONVENTOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7167381974248923vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.72vh;font-family:'Montserrat';"><B>SINTA A EXPERIÊNCIA DE SE HOSPEDAR EM UM LUGAR PARADISÍACO.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">Do alto de um verdejante morro, com vista paradisíaca para o mar, permeado por dunas, falésias e trilhas, o Hotel Morro dos Conventos proporciona aos seus hóspedes uma deslumbrante interação com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No extenso deck da piscina é possível vislumbrar toda a extensão da praia, que se encontra a 400 metros do empreendimento. Além disso, você encontra um vasto conjunto de serviços e comodidades, ideal para turistas e viagens de negócio.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8597997138769653vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vh;">No hotel Morro dos Conventos sua estada será repleta de sossego e tranquilidade. Nossa infraestrutura é baseada no conforto e na simplicidade, proporcionando a você um contato direto com a natureza.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
@@ -92,30 +121,57 @@ tour.name = Hotel do morro
 ## VR Menu
 
 ### Text
-MenuItem_DD8BA36A_CF32_BBB6_41DC_E33C2AEF66EB.label = Academia
-MenuItem_DD8B536A_CF32_BBB6_41D7_68D7872A7328.label = Barra Rio Araranguá
-MenuItem_DD8BB36A_CF32_BBB6_41E4_45D3D1C5EED2.label = Bistro 1
-MenuItem_DD8B736A_CF32_BBB6_41C9_9415987992FF.label = Bistro 2
-MenuItem_DD8BC36A_CF32_BBB6_41CC_740BF98EE888.label = Deck Noturna
-MenuItem_DD8A736B_CF32_BBB6_41E3_41E339EE71A2.label = Deck Piscina
-MenuItem_DD8AE36B_CF32_BBB6_41D7_61155EACE9D8.label = Entrada Hotel
-MenuItem_DD8B036A_CF32_BBB6_41E9_49A24E5C6A32.label = Farol
-MenuItem_DD8A036B_CF32_BBB6_41E7_6D8849C29C48.label = Fenda
-MenuItem_DD8AC36B_CF32_BBB6_41E7_432BC2CAB074.label = Fenda
-MenuItem_DD8A536B_CF32_BBB6_41C4_B2221620A596.label = Hotel
-MenuItem_DD8B836A_CF32_BBB6_41A2_9FE7C1072158.label = Lateral
-MenuItem_DD8B436A_CF32_BBB6_41D2_025EDB04F488.label = Lateral Familiar
+MenuItem_27863D2D_1410_77CF_41B1_CE5D65BBDA12.label = Academia
+MenuItem_27865D2D_1410_77CF_4198_208E587181C7.label = Balcão Café
+MenuItem_27861D2D_1410_77CF_41B1_76663F70EBFE.label = Barra Rio Araranguá
+MenuItem_2787BD2D_1410_77CF_41A5_1BADC7C5AE16.label = Bistro 1
+MenuItem_27882D2D_1410_77CF_4171_36844C794427.label = Bistro 1
+MenuItem_2787AD2D_1410_77CF_41B1_84F0F92690DB.label = Bistro 2
+MenuItem_2788CD2D_1410_77CF_4174_8FC7F9176E86.label = Bistro 2
+MenuItem_2787ED2D_1410_77CF_41A8_AE7F5A02B8DA.label = Café
+MenuItem_27876D2D_1410_77CF_416F_D7F1CC252C2C.label = Café
+MenuItem_27875D2D_1410_77CF_4140_094473FC61DE.label = Deck Café
+MenuItem_27863D2D_1410_77CF_41AB_53F92041DF0A.label = Deck Noturna
+MenuItem_27886D2D_1410_77CF_41A5_0F36DB0D5888.label = Deck Noturna
+MenuItem_27873D2D_1410_77CF_41A6_22DD363AA1A4.label = Deck Piscina
+MenuItem_2787DD2D_1410_77CF_41B2_7C4889C6747D.label = Deck Piscina
+MenuItem_27880D2D_1410_77CF_4193_4E2052422DDC.label = Elevador
+MenuItem_27884D2D_1410_77CF_418D_8A860827B656.label = Elevador 02
+MenuItem_27879D2D_1410_77CF_41AA_E4C6FCEF3DF5.label = Entrada Café
+MenuItem_2787CD2D_1410_77CF_4180_D82AF967E65E.label = Entrada Hotel
+MenuItem_27870D2D_1410_77CF_41B0_67082520502D.label = Entrada Hotel
+MenuItem_27872D2D_1410_77CF_41AF_DC7772A3C0E5.label = Farol
+MenuItem_2787BD2D_1410_77CF_41AF_0559DB768C15.label = Fenda
+MenuItem_27861D2D_1410_77CF_417D_D4DB50111E78.label = Fenda
+MenuItem_27866D2D_1410_77CF_41B1_1080320FC92F.label = Hotel
+MenuItem_27862D2D_1410_77CF_41AA_4263D50A48B7.label = Lateral
+MenuItem_27877D2D_1410_77CF_417A_71FC64397AC2.label = Lateral
+MenuItem_27870D2D_1410_77CF_41AD_583244D17C16.label = Lateral Familiar
+MenuItem_27867D2D_1410_77CF_41A3_77D1505471AC.label = Lateral Familiar
 Menu_4C0BE35D_568C_CAD6_41C5_5ED3B7FB8421.label = Media
-MenuItem_DD8A636B_CF32_BBB6_41E3_585C226FF69B.label = Mirante Deck
-MenuItem_DD8B936A_CF32_BBB6_41DF_2B752F97F43D.label = Parapente
-MenuItem_DD84336A_CF32_BBB6_41E0_8DFF7806A247.label = Piscina Externa
-MenuItem_DD8B336B_CF32_BBB6_41E9_A688AFC14B5E.label = Piscina Noturna
-MenuItem_DD8B636A_CF32_BBB6_41C5_34D9D8C2F563.label = Piscina Térmica
-MenuItem_DD8AB36B_CF32_BBB6_41BB_3D54BEAB1CBD.label = Quarto Frente
-MenuItem_DD8AF36B_CF32_BBB6_41E4_7DB011379CCF.label = Recepção
-MenuItem_DD8B236B_CF32_BBB6_41E2_D81A14F86D8E.label = Refeitorio Externo
-MenuItem_DD84136A_CF32_BBB6_41E6_548EEF715DDB.label = Sala de jogos
-MenuItem_DD8BF36A_CF32_BBB6_41E0_27468866A0AE.label = Sala de jogos 2
-MenuItem_DD8BD36A_CF32_BBB6_41BA_41396E3F833F.label = Salão lateral
-MenuItem_DD8AD36B_CF32_BBB6_41DB_7D4491E9D9C0.label = Salão principal 01
-MenuItem_DD8A936B_CF32_BBB6_41CB_46D6225F9818.label = Salão principal 02
+MenuItem_2787CD2D_1410_77CF_41B1_1CB684291F78.label = Mirante Deck
+MenuItem_27873D2D_1410_77CF_41AB_28D07CB5F93E.label = Mirante Deck
+MenuItem_27879D2D_1410_77CF_4185_B4EC674D8014.label = Parapente
+MenuItem_2787FD2D_1410_77CF_41B2_E6B7E0710097.label = Parquinho
+MenuItem_2786FD2D_1410_77CF_4189_2A37A7E442EE.label = Parquinho
+MenuItem_27898D2D_1410_77CF_41AB_7D8157AE885D.label = Piscina Externa
+MenuItem_27867D2D_1410_77CF_41AD_5859F5C8532F.label = Piscina Externa
+MenuItem_2787ED2D_1410_77CF_419D_376CF600072B.label = Piscina Noturna
+MenuItem_27883D2D_1410_77CF_4192_A5BC503AE878.label = Piscina Noturna
+MenuItem_27881D2D_1410_77CF_41B2_E1D9DCF6F65E.label = Piscina Térmica
+MenuItem_2788FD2D_1410_77CF_4154_37374FE0CD0C.label = Piscina Térmica
+MenuItem_2787AD2D_1410_77CF_419C_0E28D725E160.label = Quarto Frente
+MenuItem_27877D2D_1410_77CF_419B_ED417D897245.label = Quarto Frente
+MenuItem_27864D2D_1410_77CF_4190_854FF5DF7E22.label = Recepção
+MenuItem_27874D2D_1410_77CF_419A_5E1DD29BA31A.label = Refeitorio (Externo)
+MenuItem_27860D2D_1410_77CF_41B1_39A3CC1E2720.label = Refeitório
+MenuItem_27888D2D_1410_77CF_41A0_B0B38EA9A12E.label = Sala de TV
+MenuItem_27872D2D_1410_77CF_4198_8359FCE83A78.label = Sala de TV
+MenuItem_2789BD2D_1410_77CF_41A5_1B964DC465CA.label = Sala de jogos
+MenuItem_27885D2D_1410_77CF_41A6_9090A2386A66.label = Sala de jogos 2
+MenuItem_27871D2D_1410_77CF_41A2_055825A04F5C.label = Salão 01
+MenuItem_27889D2D_1410_77CF_4184_9CC10215F27E.label = Salão principal 01
+MenuItem_27873D2D_1410_77CF_41AA_AE551BFE4B6D.label = Salão principal 02
+MenuItem_2789AD2D_1410_77CF_418B_8B718CC7F5A8.label = Suite Master
+MenuItem_2786ED2D_1410_77CF_41B3_87C6BC9E4076.label = Suite Master
+MenuItem_27864D2D_1410_77CF_41A8_A01FD8C3EF74.label = salão 02
