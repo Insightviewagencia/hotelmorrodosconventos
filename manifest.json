@@ -1,8 +1,8 @@
 {
+ "background_color": "#10204A",
+ "start_url": "index.htm",
  "name": "Hotel do morro",
  "display": "fullscreen",
- "start_url": "index.htm",
- "theme_color": "#10204A",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#10204A"
+ "theme_color": "#10204A"
 }
